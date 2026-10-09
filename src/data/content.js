@@ -134,9 +134,9 @@ export const lab = {
       //   github: "https://github.com/krrishpana/image-captioning", demo: "",
       // },
       {
-        title: "LangGraph", text: "Exploring graphs and tool calling", status: "donr",
+        title: "LangGraph", text: "Exploring graphs and tool calling", status: "done",
         slug: "langgraph-experiment", art: "tools", tags: ["AI Agents", "Tool use", "Graphs"],
-        github: "https://github.com/krrishpana/tools-for-agents", demo: "",
+        github: "https://github.com/krrishpana/LangGraph-Practice.git", demo: "",
       },
     ],
     // "reading list": [
