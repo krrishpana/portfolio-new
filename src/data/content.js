@@ -133,11 +133,11 @@ export const lab = {
       //   slug: "image-captioning", art: "photo", tags: ["CNN", "Transformer", "Vision"],
       //   github: "https://github.com/krrishpana/image-captioning", demo: "",
       // },
-      // {
-      //   title: "Tools for Agents", text: "Building custom tools and evaluating agent performance.", status: "progress",
-      //   slug: "tools-for-agents", art: "tools", tags: ["AI Agents", "Tool use", "Evaluation"],
-      //   github: "https://github.com/krrishpana/tools-for-agents", demo: "",
-      // },
+      {
+        title: "LangGraph", text: "Exploring graphs and tool calling", status: "donr",
+        slug: "langgraph-experiment", art: "tools", tags: ["AI Agents", "Tool use", "Graphs"],
+        github: "https://github.com/krrishpana/tools-for-agents", demo: "",
+      },
     ],
     // "reading list": [
     //   { title: "Designing Machine Learning Systems", text: "Chip Huyen — production ML from data to deployment.", status: "progress" },
